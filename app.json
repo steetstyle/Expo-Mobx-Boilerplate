@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "NelerVar",
+    "slug": "NelerVar",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "NelerVar"
+}
